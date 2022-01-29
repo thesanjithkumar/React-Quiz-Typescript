@@ -1,5 +1,5 @@
-import styled, { createGlobalStyle } from 'styled-components';
-import BGImage from './images/nattu-adnan-unsplash.jpg';
+import styled, { createGlobalStyle } from "styled-components";
+import BGImage from "./images/ryan-hutton-Jztmx9yqjBw-unsplash.jpg";
 
 export const GlobalStyle = createGlobalStyle`
   html {
@@ -52,7 +52,8 @@ export const Wrapper = styled.div`
     margin: 20px;
   }
 
-  .start, .next {
+  .start,
+  .next {
     cursor: pointer;
     background: linear-gradient(180deg, #ffffff, #ffcc91);
     border: 2px solid #d38558;
