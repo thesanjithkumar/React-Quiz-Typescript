@@ -37,8 +37,8 @@ export const Wrapper = styled.div`
   }
 
   h1 {
-    font-family: Fascinate Inline;
-    background-image: linear-gradient(180deg, #fff, #87f1ff);
+    font-family: "Oswald", sans-serif;
+    background-image: linear-gradient(180deg, #30e3ca, #11999e);
     font-weight: 400;
     background-size: 100%;
     background-clip: text;
